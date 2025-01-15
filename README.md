@@ -23,5 +23,5 @@ Key Concepts
 
 Reference
 
-This repository builds upon the ideas explored in my initial trial of the autogen library, which can be found in the [AutoGenV04Test](https://github.com/NanGePlus/AutoGenV04Test/tree/main)) repository. 
+This repository builds upon the ideas explored in my initial trial of the autogen library, which can be found in the [AutoGenV04Test](https://github.com/NanGePlus/AutoGenV04Test/tree/main))repository. 
 That project served as the foundation for understanding the potential of multi-agent systems and shaped the approach used in these examples.
