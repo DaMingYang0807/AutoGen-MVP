@@ -1,5 +1,4 @@
 # AutoGen-MVP
-AssistantAgent Multi-Agent Examples
 
 This repository provides four examples demonstrating the use of the autogen_agentchat library to implement intelligent agent systems. Each example showcases unique scenarios involving single or multiple agents, tools, and team collaboration.
 
@@ -10,14 +9,6 @@ Features
 	•	Interactive User Feedback: Simulated user input enables dynamic interactions.
 	•	Task Handoff: Demonstrates fallback mechanisms when agents cannot complete tasks.
 
-Examples Overview
-
-File Name	Description
-single_agent_stock_info.py	Single agent fetching stock information.
-dual_agent_investment_advice.py	Dual agents collaborating to provide investment advice.
-interactive_user_feedback.py	User interaction simulation with real-time feedback.
-single_agent_task_handoff.py	Single agent transferring tasks to users when unresolved.
-
 Prerequisites
 
 	1.	Python 3.8+.
@@ -27,9 +18,6 @@ pip install autogen-agentchat
 
 
 	3.	Set environment variables for the OpenAI API:
-
-export OPENAI_BASE_URL="https://your-api-url/v1"
-export OPENAI_API_KEY="your-api-key"
 
 How to Run
 
@@ -53,6 +41,7 @@ Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve these examples or add new ones.
 
-License
+Reference
 
-This project is licensed under the MIT License.
+This repository builds upon the ideas explored in my initial trial of the autogen library, which can be found in the [AutoGenV04Test]([url](https://github.com/NanGePlus/AutoGenV04Test/tree/main)) repository. 
+That project served as the foundation for understanding the potential of multi-agent systems and shaped the approach used in these examples.
