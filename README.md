@@ -1,5 +1,5 @@
 # AutoGen-MVP
-##AssistantAgent Multi-Agent Examples
+AssistantAgent Multi-Agent Examples
 
 This repository provides four examples demonstrating the use of the autogen_agentchat library to implement intelligent agent systems. Each example showcases unique scenarios involving single or multiple agents, tools, and team collaboration.
 
